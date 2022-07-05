@@ -1,14 +1,13 @@
 <template>
     <div>
         <h1>{{ this.example }}</h1>
-        innienerfinwerininwfrin
     </div>
 </template>
 
 <script>
 export default {
     setup() {
-        const example = "Example";
+        const example = 'Example';
 
         return {
             example,
